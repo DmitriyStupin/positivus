@@ -37,7 +37,7 @@ $mobile: 767px;
   }
 }
 
-@mixin movile {
+@mixin mobile {
   @media (max-width: $mobile) {
     @content;
   }
